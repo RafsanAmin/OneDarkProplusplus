@@ -1,4 +1,4 @@
-# [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=HRMRafsanAmin.onedarkproplusplus)
+# [One Dark Pro ++](https://marketplace.visualstudio.com/items?itemName=HRMRafsanAmin.onedarkproplusplus)
 
 A beautiful and eye-catching [theme](https://marketplace.visualstudio.com/items?itemName=HRMRafsanAmin.onedarkproplusplus) for VS Code! extending Atom One Dark Pro made by binarify
 

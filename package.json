@@ -3,6 +3,10 @@
   "displayName": "OneDarkPro++",
   "publisher": "HRMRafsanAmin",
   "description": "A theme extending One Dark Pro.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RafsanAmin/OneDarkProplusplus"
+  },
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.61.0"

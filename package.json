@@ -1,0 +1,22 @@
+{
+  "name": "onedarkproplusplus",
+  "displayName": "OneDarkPro++",
+  "publisher": "HRMRafsanAmin",
+  "description": "A theme extending One Dark Pro.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.61.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Dark Pro ++",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One Dark Pro ++-color-theme.json"
+      }
+    ]
+  }
+}

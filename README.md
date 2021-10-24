@@ -10,11 +10,9 @@ A beautiful and eye-catching [theme](https://marketplace.visualstudio.com/items?
 
 ![ScreenShot](https://res.cloudinary.com/dyjrfa6c2/image/upload/q_90/v1634884715/Screenshot_2021-10-22_123428_q8bzkb.png)
 
-## Markdown preview style
-
 ### Suggest Editor Settings
 
-```
+```json
   "editor.lineHeight": 26,
   "editor.fontFamily": "Fira Code, consolas, monospace",
   "editor.fontLigatures": true,

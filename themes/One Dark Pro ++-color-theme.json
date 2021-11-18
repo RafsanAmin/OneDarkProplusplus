@@ -2030,8 +2030,9 @@
     "tab.unfocusedActiveBorderTop": "#707a8c",
     "tab.unfocusedActiveForeground": "#707a8c",
     "tab.unfocusedInactiveForeground": "#707a8c",
+    "terminal.ansiBlue": "#2da2dd",
+    "terminal.ansiGreen": "#cef19d",
     "terminal.ansiBlack": "#161b27",
-    "terminal.ansiBlue": "#6dcbfa",
     "terminal.ansiBrightBlack": "#686868",
     "terminal.ansiBrightBlue": "#73d0ff",
     "terminal.ansiBrightCyan": "#95e6cb",
@@ -2041,7 +2042,6 @@
     "terminal.ansiBrightWhite": "#ffffff",
     "terminal.ansiBrightYellow": "#ffd580",
     "terminal.ansiCyan": "#90e1c6",
-    "terminal.ansiGreen": "#a6cc70",
     "terminal.ansiMagenta": "#cfbafa",
     "terminal.ansiRed": "#ed8274",
     "terminal.ansiWhite": "#c7c7c7",
@@ -2087,6 +2087,8 @@
     "activityBar.activeBorder": "#ffcc66",
     "editorGroupHeader.tabsBackground": "#19202e",
     "quickInput.background": "#212838",
-    "sideBarSectionHeader.background": "#212938"
+    "sideBarSectionHeader.background": "#212938",
+    "banner.background": "#222b3b",
+    "banner.foreground": "#9da6b4"
   }
 }

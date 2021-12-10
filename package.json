@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/RafsanAmin/OneDarkProplusplus"
   },
-  "version": "1.0.5",
+  "version": "1.0.6",
   "icon": "icon/icon.png",
   "engines": {
     "vscode": "^1.58.0"

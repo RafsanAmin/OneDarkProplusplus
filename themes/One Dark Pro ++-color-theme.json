@@ -2065,7 +2065,6 @@
     "titleBar.inactiveForeground": "#707a8c",
     "walkThrough.embeddedEditorBackground": "#232834",
     "widget.shadow": "#141925",
-
     "sideBar.background": "#19202e",
     "tab.border": "#19202e",
     "editorGroupHeader.tabsBorder": "#1f2430",
@@ -2080,7 +2079,8 @@
     "textBlockQuote.border": "#ffcc66",
     "menu.selectionBackground": "#cfdef713",
     "menu.selectionForeground": "#cfdef7b2",
-    "textCodeBlock.background": "#ffcc66",
+
+    "textCodeBlock.background": "#5158805b",
     "sideBar.border": "#19202e",
     "menu.background": "#1b2231",
     "menu.separatorBackground": "#cfdef710",

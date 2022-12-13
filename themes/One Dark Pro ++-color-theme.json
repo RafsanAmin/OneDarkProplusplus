@@ -2015,7 +2015,7 @@
     "scrollbarSlider.hoverBackground": "#707a8c99",
     "selection.background": "#2a3546fd",
     "settings.headerForeground": "#cbccc6",
-    "settings.focusedRowBackground": "#ffffff0a",
+    "settings.focusedRowBackground": "#333c5025",
     "settings.modifiedItemIndicator": "#77a8d9",
     "sideBarSectionHeader.foreground": "#707a8c",
     "sideBarTitle.foreground": "#707a8c",
@@ -2100,7 +2100,6 @@
     "activityBar.activeBorder": "#ffcc66",
     "editorGroupHeader.tabsBackground": "#19202e",
     "quickInput.background": "#1d2435",
-
     "quickInputTitle.background": "#1d2435",
     "sideBarSectionHeader.background": "#212938",
     "banner.background": "#222b3b",
